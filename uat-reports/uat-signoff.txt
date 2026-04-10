@@ -1,0 +1,2 @@
+UAT: notification-service STAGE
+Status: PENDING APPROVAL
